@@ -8,7 +8,7 @@ for(var i = 1; i <= limite; i++){ //i = i + 1
     var edad   = prompt("Cuantos años tienes?");
     var escuela = prompt("De que escuela vienes?");
     var materia = prompt("Cual es tu materia favorita?");
-    document.write( i +"<&NBSP>" + nombre + "<br>")
+    document.write( i +  nombre + "<br>")
     document.write( i + apellido + "<br>")
     document.write( i + edad + "<br>")
     document.write( i + escuela + "<br>")
